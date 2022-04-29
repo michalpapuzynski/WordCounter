@@ -1,0 +1,11 @@
+//TODO dodaj podbne klasy:
+//1. EfficientWordCounter - klasa przechodząca przez łańcuch znaków przy pomocy pętli for
+
+
+//2. CustomWordCounter - klasa pozwalająca jakoś wpływać na to co rozumiemy jako biały znak / rozdzielacz słów. Może warto to zrobić przy pomocy interfejsów funkcyjnych:
+//https://www.baeldung.com/java-8-functional-interfaces
+//?
+
+//3. UniqueWordsCounter - klasa zliczająca tylko unikalne słowa np. "Ala ala ala" - w zależności na ustawienia (rozróżnianie wielkości liter) zwróci tu 1 lub 2 ale nie 3
+
+
